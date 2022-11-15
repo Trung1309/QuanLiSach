@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LamThu</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_lienHe">Liên Hệ</string>
+    <string name="nav_gioithieu">Giới thiệu</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
